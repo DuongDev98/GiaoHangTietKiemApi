@@ -1,0 +1,12 @@
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangTietKiem\GiaoHangTietKiem\bin\Debug\GiaoHangTietKiem.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangTietKiem\GiaoHangTietKiem\bin\Debug\GiaoHangTietKiem.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangTietKiem\GiaoHangTietKiem\obj\x86\Debug\GiaoHangTietKiem.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangTietKiem\GiaoHangTietKiem\obj\x86\Debug\GiaoHangTietKiem.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangTietKiem\GiaoHangTietKiem\obj\x86\Debug\GiaoHangTietKiem.csprojResolveAssemblyReference.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\GiaoHangTietKiem\GiaoHangTietKiem\bin\Debug\Newtonsoft.Json.dll
+D:\Tool\GiaoHangTietKiem\GiaoHangTietKiem\obj\x86\Debug\GiaoHangTietKiem.exe
+D:\Tool\GiaoHangTietKiem\GiaoHangTietKiem\obj\x86\Debug\GiaoHangTietKiem.pdb
+D:\Tool\GiaoHangTietKiem\GiaoHangTietKiem\bin\Debug\GiaoHangTietKiem.exe
+D:\Tool\GiaoHangTietKiem\GiaoHangTietKiem\bin\Debug\GiaoHangTietKiem.pdb
+D:\Tool\GiaoHangTietKiem\GiaoHangTietKiem\bin\Debug\Newtonsoft.Json.dll
+D:\Tool\GiaoHangTietKiem\GiaoHangTietKiem\obj\x86\Debug\GiaoHangTietKiem.csprojResolveAssemblyReference.cache
